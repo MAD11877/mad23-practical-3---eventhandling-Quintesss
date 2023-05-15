@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MADpract2</string>
+    <string name="btn1">FOLLOW</string>
+    <string name="btn2">MESSAGE</string>
+    <string name="sampletext">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="btngrp1">GROUP 1</string>
+    <string name="btngrp2">GROUP 2</string>
+    <string name="frag_text1">GROUP 1</string>
+</resources>
